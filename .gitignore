@@ -166,3 +166,5 @@ MANIFEST
 *.wmv
 *.flv
 *.webm
+# Large video files
+backend/core/output.avi
